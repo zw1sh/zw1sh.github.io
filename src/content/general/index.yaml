@@ -19,9 +19,9 @@ extraLinks:
     label: GitHub Repo
     displayOn: both
 showAboutSection: true
-showProjectsSection: true
+showProjectsSection: false
 showBlogSection: true
 showWorkSection: true
 showEducationSection: true
-showHackathonsSection: true
+showHackathonsSection: false
 showContactSection: true

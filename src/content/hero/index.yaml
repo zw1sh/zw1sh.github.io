@@ -1,35 +1,17 @@
-name: 🌻 Bloomfolio
+name: 🌻 Zw1sh
 title: >-
-  Astro Portfolio Template built with [link:https://daisyui.com]🌼
-  DaisyUI[/link]
+  看到、做到、得到
 description: >-
-  A modern, responsive, and customizable portfolio templatebuilt with
-  [link:https://astro.build/]Astro[/link]  and DaisyUI. Perfect for developers,
-  designers, and creatives to showcase their work and skills.
+      记录学习、工作
 avatar: '@assets/hero/avatar.png'
-location: 🇧🇷 Brazil
+location: 🇨🇳 China
 socialLinks:
-  - url: mailto:hello@example.com
+  - url: mailto:zwish1234@163.com
     icon: Email
     label: Email
-  - url: https://github.com/lauroguedes
+  - url: https://github.com/zw1sh
     icon: GitHub
     label: GitHub
-  - url: https://linkedin.com/in/lauroguedes
-    icon: LinkedIn
-    label: LinkedIn
-  - url: https://twitter.com/leowg
+  - url: https://twitter.com/zwisher0
     icon: Twitter
     label: X (Twitter)
-  - url: https://bsky.app/profile/lauroguedes.bsky.social
-    icon: Bluesky
-    label: Bluesky
-  - url: https://instagram.com/lauroguedes.dev
-    icon: Instagram
-    label: Instagram
-  - url: https://youtube.com/leowgweb
-    icon: YouTube
-    label: YouTube
-  - url: https://codetips.cloud/u/lauroguedes
-    icon: FolderCode
-    label: CodeTips
