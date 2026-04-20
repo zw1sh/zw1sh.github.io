@@ -8,6 +8,9 @@ import markdoc from "@astrojs/markdoc";
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://zw1sh.github.io',     // 你的 GitHub Pages 地址
+  base: '/',                           // ← 必须是 '/'，因为是 username.github.io 仓库
+
   integrations: [react(), markdoc()],
 
   vite: {
