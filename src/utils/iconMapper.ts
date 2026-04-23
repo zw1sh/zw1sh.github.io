@@ -29,9 +29,8 @@ import {
 import GitHub from "../components/icons/GitHub.astro";
 import LinkedIn from "../components/icons/LinkedIn.astro";
 import Twitter from "../components/icons/Twitter.astro";
-import Bluesky from "../components/icons/Bluesky.astro";
+import cnBlogs from "../components/icons/cnBlogs.astro";
 import Instagram from "../components/icons/Instagram.astro";
-import YouTube from "../components/icons/YouTube.astro";
 
 export type IconName =
   | "Flower2"
@@ -61,9 +60,8 @@ export type IconName =
   | "GitHub"
   | "LinkedIn"
   | "Twitter"
-  | "Bluesky"
+  | "cnBlogs"
   | "Instagram"
-  | "YouTube"
   | "Email";
 
 export const iconMap: Record<IconName, any> = {
@@ -94,9 +92,8 @@ export const iconMap: Record<IconName, any> = {
   GitHub,
   LinkedIn,
   Twitter,
-  Bluesky,
+  cnBlogs,
   Instagram,
-  YouTube,
   Email: Mail,
 };
 
